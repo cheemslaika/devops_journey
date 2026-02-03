@@ -1,0 +1,9 @@
+#!/bin/bash
+service=$1
+version=$2
+echo "service I am using Now :" $service
+echo
+echo "And the version is :" $version
+echo "script name :" $0
+echo "total arg :" $#
+echo "all arg name :" $@

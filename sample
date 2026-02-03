@@ -1,0 +1,9 @@
+INFO Application started
+INFO Loading configuration
+DEBUG Config file loaded
+INFO Connecting to database
+ERROR Database connection failed
+WARN Retrying connection
+INFO Database connected
+ERROR Timeout occurred
+INFO Application stopped
