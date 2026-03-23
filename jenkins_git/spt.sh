@@ -4,3 +4,4 @@ echo "Repository: devops_journey"
 date
 echo "New change added"
 echo "hi" 
+echo "hello" 
